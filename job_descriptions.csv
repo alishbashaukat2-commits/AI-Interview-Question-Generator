@@ -1,0 +1,11 @@
+job_id,job_title,required_skills,responsibilities,role_goal
+JOB001,Machine Learning Intern,Python; Machine Learning; Scikit-learn; Pandas,Build and evaluate machine learning models; clean datasets; analyze model performance.,Develop ML skills through practical projects.
+JOB002,Data Science Intern,Python; Pandas; NumPy; SQL; Data Visualization,Clean and analyze datasets; create visualizations; prepare analytical reports.,Support data-driven business decisions.
+JOB003,NLP Intern,Python; NLP; Scikit-learn; Transformers; Text Processing,Preprocess text data; build text classification systems; evaluate NLP models.,Work on practical natural language processing tasks.
+JOB004,Computer Vision Intern,Python; OpenCV; Computer Vision; YOLO; Deep Learning,Process images; develop object detection solutions; evaluate computer vision models.,Build real-world computer vision applications.
+JOB005,Deep Learning Intern,Python; TensorFlow; Keras; Deep Learning; CNN,Train neural networks; experiment with architectures; evaluate deep learning models.,Develop and test deep learning solutions.
+JOB006,Python Development Intern,Python; Git; SQL; APIs; Problem Solving,Develop Python scripts; work with APIs and databases; maintain readable code.,Build practical software development experience.
+JOB007,AI Research Intern,Python; Machine Learning; Deep Learning; Research; Statistics,Review AI methods; run experiments; analyze results; document findings.,Support research-oriented AI experiments.
+JOB008,Data Analyst Intern,Python; Pandas; SQL; Statistics; Visualization,Analyze business data; clean datasets; create reports and dashboards.,Turn raw data into useful insights.
+JOB009,ML Operations Intern,Python; Machine Learning; Git; Model Evaluation; Deployment,Prepare ML workflows; track experiments; test and support model deployment.,Learn practical ML engineering workflows.
+JOB010,AI Intern,Python; Machine Learning; NLP; Computer Vision; Data Science,"Assist with AI projects across data preparation, model development, and evaluation.",Gain broad practical AI experience.

@@ -1,0 +1,81 @@
+question_id,question_type,category,difficulty,question,topic
+Q001,Technical,Machine Learning,Easy,What is supervised learning?,Machine learning fundamentals
+Q002,Technical,Machine Learning,Easy,What is the difference between classification and regression?,Machine learning fundamentals
+Q003,Technical,Machine Learning,Medium,What is overfitting and how can you prevent it?,Model generalization
+Q004,Technical,Machine Learning,Medium,"Explain the difference between training, validation, and test data.",Model evaluation
+Q005,Technical,Machine Learning,Medium,What is cross-validation and why is it useful?,Model evaluation
+Q006,Technical,Machine Learning,Medium,How would you handle missing values in a dataset?,Data preprocessing
+Q007,Technical,Machine Learning,Medium,What is feature scaling and when is it needed?,Data preprocessing
+Q008,Technical,Machine Learning,Hard,How does a Random Forest model work?,Ensemble learning
+Q009,Technical,Machine Learning,Medium,What is the purpose of a confusion matrix?,Classification evaluation
+Q010,Technical,Machine Learning,Medium,"What is the difference between precision, recall, and F1-score?",Classification metrics
+Q011,Technical,Python,Easy,"What are lists, tuples, and dictionaries in Python?",Python fundamentals
+Q012,Technical,Python,Easy,What is the difference between a list and a tuple?,Python fundamentals
+Q013,Technical,Python,Medium,What is a function in Python and why do we use functions?,Programming fundamentals
+Q014,Technical,Python,Medium,How do you handle exceptions in Python?,Error handling
+Q015,Technical,Python,Medium,What is list comprehension in Python?,Python syntax
+Q016,Technical,Pandas,Easy,What is a Pandas DataFrame?,Data manipulation
+Q017,Technical,Pandas,Medium,How would you remove missing values using Pandas?,Data cleaning
+Q018,Technical,Pandas,Medium,How can you filter rows in a Pandas DataFrame?,Data manipulation
+Q019,Technical,NumPy,Easy,What is a NumPy array?,Numerical computing
+Q020,Technical,NumPy,Medium,Why is NumPy commonly used for numerical operations?,Numerical computing
+Q021,Technical,Data Science,Easy,What is exploratory data analysis?,Data analysis
+Q022,Technical,Data Science,Medium,Why is data visualization important in data analysis?,Data analysis
+Q023,Technical,Data Science,Medium,How would you detect outliers in a dataset?,Data cleaning
+Q024,Technical,Data Science,Medium,What steps would you follow before training a machine learning model?,ML workflow
+Q025,Technical,Deep Learning,Easy,What is a neural network?,Deep learning fundamentals
+Q026,Technical,Deep Learning,Medium,What is an activation function?,Neural networks
+Q027,Technical,Deep Learning,Medium,What is the purpose of an optimizer in neural network training?,Model training
+Q028,Technical,Deep Learning,Medium,What is a convolutional neural network used for?,Computer vision
+Q029,Technical,Deep Learning,Hard,What is backpropagation?,Neural network training
+Q030,Technical,NLP,Easy,What is Natural Language Processing?,NLP fundamentals
+Q031,Technical,NLP,Medium,What is tokenization in NLP?,Text preprocessing
+Q032,Technical,NLP,Medium,What is TF-IDF and where can it be used?,Text representation
+Q033,Technical,NLP,Medium,What is sentiment analysis?,Text classification
+Q034,Technical,NLP,Hard,What are transformers used for in NLP?,Modern NLP
+Q035,Technical,Computer Vision,Easy,What is image classification?,Computer vision fundamentals
+Q036,Technical,Computer Vision,Medium,What is object detection?,Computer vision
+Q037,Technical,Computer Vision,Medium,What is image segmentation?,Computer vision
+Q038,Technical,Computer Vision,Medium,How does YOLO perform object detection?,Object detection
+Q039,Technical,SQL,Easy,What is a primary key in a database?,Database fundamentals
+Q040,Technical,SQL,Medium,What is the difference between WHERE and HAVING in SQL?,SQL querying
+Q041,Technical,SQL,Medium,What is a JOIN and why is it used?,SQL querying
+Q042,Behavioral,Communication,Easy,Tell me about yourself and your background.,General introduction
+Q043,Behavioral,Teamwork,Easy,Tell us about a time you worked successfully in a team.,Team collaboration
+Q044,Behavioral,Problem Solving,Medium,Describe a difficult problem you faced in a project and how you solved it.,Problem solving
+Q045,Behavioral,Learning,Easy,How do you learn a new technology that you have never used before?,Learning ability
+Q046,Behavioral,Adaptability,Medium,Tell us about a time you had to adapt to a change.,Adaptability
+Q047,Behavioral,Time Management,Easy,How do you manage multiple tasks with deadlines?,Time management
+Q048,Behavioral,Failure,Medium,Tell us about a mistake you made in a project and what you learned from it.,Learning from mistakes
+Q049,Behavioral,Leadership,Medium,Describe a situation where you took responsibility for a task or project.,Leadership
+Q050,Behavioral,Motivation,Easy,Why are you interested in this internship role?,Career motivation
+Q051,Technical,Git,Easy,What is Git and why is it used in software development?,Version control
+Q052,Technical,Git,Medium,What is the difference between git pull and git fetch?,Version control
+Q053,Technical,Git,Medium,How do you create and switch to a new branch in Git?,Branch management
+Q054,Technical,Git,Hard,How would you resolve a merge conflict in Git?,Version control
+Q055,Technical,Git,Hard,What is the difference between git merge and git rebase?,Branch management
+Q056,Technical,MLOps,Easy,What is MLOps and why is it important?,MLOps fundamentals
+Q057,Technical,MLOps,Medium,What are the main stages of an ML workflow?,ML workflow
+Q058,Technical,MLOps,Medium,Why is experiment tracking important in machine learning?,Experiment tracking
+Q059,Technical,MLOps,Hard,How would you design a reproducible machine learning pipeline?,ML pipelines
+Q060,Technical,MLOps,Hard,How would you monitor a machine learning model after deployment?,Model monitoring
+Q061,Technical,Deployment,Easy,What does it mean to deploy a machine learning model?,Model deployment
+Q062,Technical,Deployment,Medium,What are some common ways to serve a machine learning model?,Model serving
+Q063,Technical,Deployment,Medium,What is the purpose of an API when deploying a machine learning model?,Model serving
+Q064,Technical,Deployment,Hard,What factors would you consider when deploying a machine learning model to production?,Production deployment
+Q065,Technical,Deployment,Hard,How would you handle model versioning in a production ML system?,Model lifecycle
+Q066,Technical,Model Evaluation,Easy,Why do we split data into training and testing sets?,Model evaluation
+Q067,Technical,Model Evaluation,Medium,What is the difference between MAE and RMSE?,Regression metrics
+Q068,Technical,Model Evaluation,Medium,When would you prefer precision over recall?,Classification metrics
+Q069,Technical,Model Evaluation,Hard,How would you choose an evaluation metric for an imbalanced classification problem?,Model evaluation
+Q070,Technical,Model Evaluation,Hard,How would you evaluate whether a machine learning model is ready for deployment?,Model validation
+Q071,Technical,Python,Hard,How would you optimize a Python program that processes a large dataset?,Python optimization
+Q072,Technical,Python,Hard,What is the difference between shallow copy and deep copy in Python?,Python programming
+Q073,Technical,Machine Learning,Hard,How would you identify and address data leakage in a machine learning project?,Model validation
+Q074,Technical,Machine Learning,Hard,How would you handle an imbalanced dataset when training a classification model?,Data preprocessing
+Q075,Technical,Machine Learning,Hard,How would you select the most important features for a machine learning model?,Feature selection
+Q076,Technical,SQL,Hard,How would you optimize a slow SQL query?,SQL optimization
+Q077,Technical,SQL,Medium,What is the difference between INNER JOIN and LEFT JOIN?,SQL querying
+Q078,Behavioral,Technical Learning,Hard,Tell me about a time you had to learn a difficult technical concept quickly.,Learning ability
+Q079,Behavioral,Problem Solving,Hard,Describe a situation where a technical solution did not work as expected. What did you do?,Problem solving
+Q080,Behavioral,Adaptability,Hard,Tell me about a time you had to adapt to an unfamiliar technology or tool.,Adaptability

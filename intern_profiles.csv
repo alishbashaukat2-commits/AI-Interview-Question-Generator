@@ -1,0 +1,21 @@
+candidate_id,education,skills,projects,experience_level
+INT001,BS Artificial Intelligence,Python; Machine Learning; Pandas; NumPy; Scikit-learn,Intern Performance Prediction; Learning Path Recommendation,Beginner
+INT002,BS Artificial Intelligence,Python; NLP; TF-IDF; Scikit-learn,Intern Feedback Sentiment Analysis,Beginner
+INT003,BS Computer Science,Python; SQL; Pandas; Data Analysis,Sales Data Analysis Dashboard,Beginner
+INT004,BS Artificial Intelligence,Python; TensorFlow; Deep Learning; Computer Vision,Image Classification Project,Intermediate
+INT005,BS Computer Science,Python; Machine Learning; Scikit-learn; SQL,Customer Churn Prediction,Intermediate
+INT006,BS Artificial Intelligence,Python; NLP; Transformers; Pandas,Text Classification Project,Intermediate
+INT007,BS Data Science,Python; Pandas; NumPy; Visualization; SQL,Exploratory Data Analysis Project,Beginner
+INT008,BS Artificial Intelligence,Python; YOLO; OpenCV; Computer Vision,Parking Space Detection using YOLO,Intermediate
+INT009,BS Software Engineering,Python; SQL; Testing; Git,Software Testing Automation Project,Beginner
+INT010,BS Artificial Intelligence,Python; Machine Learning; TensorFlow; Keras,House Price Prediction and Neural Network,Intermediate
+INT011,BS Computer Science,Python; Pandas; Scikit-learn; Statistics,Student Performance Prediction,Beginner
+INT012,BS Artificial Intelligence,Python; Deep Learning; CNN; OpenCV,Image Segmentation Project,Intermediate
+INT013,BS Data Science,Python; SQL; Pandas; Machine Learning,Sales Forecasting Project,Intermediate
+INT014,BS Artificial Intelligence,Python; NLP; Sentiment Analysis; Scikit-learn,Review Sentiment Classifier,Beginner
+INT015,BS Computer Science,Python; NumPy; Pandas; Machine Learning,Fraud Detection Model,Intermediate
+INT016,BS Artificial Intelligence,Python; Computer Vision; YOLO; OpenCV,Object Detection Project,Intermediate
+INT017,BS Data Science,Python; Pandas; NumPy; Statistics,Customer Data Analysis,Beginner
+INT018,BS Artificial Intelligence,Python; Machine Learning; XGBoost; Scikit-learn,Intern Performance Prediction,Intermediate
+INT019,BS Computer Science,Python; SQL; Data Analysis; Power BI,Business Intelligence Dashboard,Beginner
+INT020,BS Artificial Intelligence,Python; NLP; Transformers; Deep Learning,NLP Text Classification,Intermediate
